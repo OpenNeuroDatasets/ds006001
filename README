@@ -5,4 +5,4 @@ Included in this dataset are: The raw diffusion MRI volumes for each brain speci
 
 In the main manuscript, each brain specimen is referenced as follows:
 
-sub-C1: $S1$    sub-C2: S2    sub-C4: S3    sub-EXC007: S4    sub-EXC012: S5    sub-EXC020: S6    sub-EXC021: S7
+sub-C1: *S1*    sub-C2: S2    sub-C4: S3    sub-EXC007: S4    sub-EXC012: S5    sub-EXC020: S6    sub-EXC021: S7
