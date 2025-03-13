@@ -18,7 +18,7 @@
         "Edlow B. L."
     ],
     "License": "CC0",
-    "HowToAcknowledge": "Olchanyi, M. et al. Data from: Probabilistic Mapping and Automated Segmentation of Human Brainstem White Matter Bundles. (2025).",
+    "HowToAcknowledge": "Olchanyi, M. et al. Data from: Probabilistic Mapping and Automated Segmentation of Human Brainstem White Matter Bundles. OpenNeuro https://openneuro.org/datasets/ds006001, doi:10.18112/openneuro.ds006001.v1.0.1 (2025).",
     "Acknowledgements": "We are immensely thankful to each family for the donation of the brains of their loved ones, as well as to the individuals who donated their brains for this study and the overall advancement of medical science. We thank Michelle Siciliano for help in processing of human brain specimens and Kathryn Regan at Veranex, Inc. for assistance with blocking, sectioning and immunostaining.",
     "ReferencesAndLinks": [
         "https://surfer.nmr.mgh.harvard.edu",
